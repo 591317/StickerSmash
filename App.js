@@ -17,7 +17,7 @@ export default function App() {
     if (!result.canceled) {
       console.log(result);
     } else {
-      alert("You did not select any image.");
+      alert("You did not select any image. blabla");
     }
   };
 
